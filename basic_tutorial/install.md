@@ -6,7 +6,7 @@ Pour créer une nouvelle application Symfony, assurez-vous d'abord que votre ver
 
 ` composer create-project symfony/website-skeleton mon-projet `
 
-#### Celui-ci vous créera un nouveau projet optimisé pour les applications Web et toute ses dépendances. Si vous vous utilisez Symfony pour des microservices ou API sans toute les dépendances, veuillez utilisez cette commande:
+#### Celui-ci vous créera un nouveau projet optimisé pour les applications Web et toute ses dépendances. Si vous voulez utilisez Symfony pour des microservices ou API sans toute les dépendances, veuillez utilisez cette commande:
 
 ` composer create-project symfony/skeleton mon-projet `
 
